@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Matthewpco/Headless-WP-Next-GQL/main/TRD-APP-SS.png)
+![](https://raw.githubusercontent.com/Matthewpco/Headless-WP-Next-GQL/main/TRD-SITE-SS.png)
 
 # Next JS & WordPress: Headless WordPress with React and GraphQL
 
@@ -6,7 +6,8 @@
 
 ## 🙋‍♂️ Introduction
 
-- The Real Deal WordPress Website Theme & Headless Real Estate Investment App
+- Configured to start new Headless WP builds with Block Renderer components for Gutenburg block's and url handling.
+- The Real Deal WordPress Website Theme & Headless Real Estate Investment App Wordpress Next.js 
 
 <br>
 
@@ -18,3 +19,6 @@
 - React JSX
 - PHP
 - WordPress Theme
+
+
+![](https://raw.githubusercontent.com/Matthewpco/Headless-WP-Next-GQL/main/TRD-APP-SS.png)
